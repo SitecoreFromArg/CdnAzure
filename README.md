@@ -9,6 +9,7 @@ After this, some extra configurations are necessary on the Content Delivery serv
 
 
 INSTALLATION STEPS:
+-------------------
 
 After the installation of this package perform the following actions:
 
@@ -21,6 +22,7 @@ After the installation of this package perform the following actions:
  * Media.RequestExtension (remove attribute value="ashx")
  
 CONFIGURATIONS:
+---------------
 
 The configuration file has the following parameters:
 
