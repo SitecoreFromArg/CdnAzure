@@ -7,6 +7,8 @@ Microsoft provide a CDN service on the cloud. This service needs to take the sta
 
 After this, some extra configurations are necessary on the Content Delivery servers to take them from the CDN servers.
 
+More details on this site: https://marketplace.sitecore.net/Modules/Azure_CDN_Connector.aspx
+
 
 INSTALLATION STEPS:
 -------------------
